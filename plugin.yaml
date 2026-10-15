@@ -1,0 +1,8 @@
+name: workbuddy
+kind: model-provider
+version: 1.0.1
+provider: workbuddy
+description: "WorkBuddy / WorkBuddy AI desktop models (DeepSeek-V4.1, GLM-5.3, Kimi-K3, GPT-6, Grok-4.7, Gemini-3.8, Hy4 and more) inside Hermes Agent. Reuses the desktop app's own sign-in, so there is no API key to configure."
+author: dsh
+homepage: https://github.com/yuneryun/hermes-workbuddy-provider
+license: MIT
